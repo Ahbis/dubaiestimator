@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+pricepred.egg-info/PKG-INFO
+pricepred.egg-info/SOURCES.txt
+pricepred.egg-info/dependency_links.txt
+pricepred.egg-info/not-zip-safe
+pricepred.egg-info/requires.txt
+pricepred.egg-info/top_level.txt
